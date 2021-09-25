@@ -1,6 +1,8 @@
 # Очистка  директории по таймеру
 
-import os, schedule, time
+import os
+import schedule
+import time
 
 
 def show_current_dir():
