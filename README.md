@@ -2,4 +2,4 @@
 
 Удаление файлов из директории по расписанию
 
-# branch clear_directory_xp (Для Windows XP)
+# branch - clear_directory_xp (Для Windows XP)
