@@ -1,4 +1,4 @@
-# clear_directory (Для Windows 10)
+#  clear-dir (clear_directory) (Для Windows 10)
 
 Удаление файлов из директории по расписанию
 
